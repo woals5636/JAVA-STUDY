@@ -1,0 +1,12 @@
+package dynamic_beat_3;
+
+import javazoom.jl.player.Player;
+
+public class Music extends Thread {
+	
+	private Player player;
+	
+	private boolean isLoop;
+	private file File;
+	
+}
