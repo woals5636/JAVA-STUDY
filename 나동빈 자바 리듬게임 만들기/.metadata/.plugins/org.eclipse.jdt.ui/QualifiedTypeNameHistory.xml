@@ -11,4 +11,5 @@
     <fullyQualifiedTypeName name="java.io.FileInputStream"/>
     <fullyQualifiedTypeName name="java.io.BufferedInputStream"/>
     <fullyQualifiedTypeName name="javazoom.jl.player.Player"/>
+    <fullyQualifiedTypeName name="sun.awt.image.PixelConverter.Bgrx"/>
 </qualifiedTypeNameHistroy>
