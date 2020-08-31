@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;dynamic_beat_4&apos; to &apos;Dynamic Beat/src&apos;&#x0D;&#x0A;- Original project: &apos;Dynamic Beat&apos;&#x0D;&#x0A;- Destination element: &apos;Dynamic Beat/src&apos;&#x0D;&#x0A;- Original element: &apos;Dynamic Beat/src/dynamic_beat_4&apos;" description="Copy package" destination="/src" element1="/src&lt;dynamic_beat_4" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1598853248796" version="1.0"/>
+</session>
